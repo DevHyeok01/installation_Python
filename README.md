@@ -1,6 +1,6 @@
 # installation_Python
 
-📌 Python 개발 환경 구축 가이드
+## Python 개발 환경 구축 가이드
 
 1️⃣ Anaconda 설치하기
 
