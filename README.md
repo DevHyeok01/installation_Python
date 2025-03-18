@@ -10,7 +10,7 @@ Anaconda 공식 사이트(https://www.anaconda.com/download)에서 최신 버전
 
 터미널에서 설치 확인:
 conda --version
-
+-------------------------------------------------
 2️⃣ VS Code 설치하기
 
 VS Code 공식 사이트(https://code.visualstudio.com/download)에서 다운로드 후 설치
