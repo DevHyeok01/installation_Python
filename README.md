@@ -5,6 +5,7 @@
 1️⃣ Anaconda 설치하기
 
 Anaconda 공식 사이트(https://www.anaconda.com/download)에서 최신 버전 다운로드
+![image](https://github.com/user-attachments/assets/5e621e1c-ed01-4ee6-b9dc-61d78d32e2d0)
 
 설치 진행 후, "Add Anaconda to PATH" 체크!
 
