@@ -4,10 +4,10 @@
 
 1️⃣ Anaconda 설치하기
 
-Anaconda 공식 사이트(https://www.anaconda.com/download)에서 최신 버전 다운로드
-![image](https://github.com/user-attachments/assets/5e621e1c-ed01-4ee6-b9dc-61d78d32e2d0)
+1. Anaconda 공식 사이트(https://www.anaconda.com/download)에서 최신 버전 다운로드
 
-설치 진행 후, "Add Anaconda to PATH" 체크!
+2. 설치 진행 후, "Add Anaconda to PATH" 체크!
+![image](https://github.com/user-attachments/assets/5e621e1c-ed01-4ee6-b9dc-61d78d32e2d0)
 
 터미널에서 설치 확인:
 conda --version
@@ -17,6 +17,7 @@ conda --version
 2️⃣ VS Code 설치하기
 
 VS Code 공식 사이트(https://code.visualstudio.com/download)에서 다운로드 후 설치
+![image](https://github.com/user-attachments/assets/3834e51e-912d-4b22-894d-00258ab41ee8)
 
 설치 후 터미널에서 실행 확인:
 code --version
